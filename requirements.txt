@@ -63,8 +63,5 @@ tzdata==2024.2
 uritemplate==4.1.1
 urllib3==2.3.0
 watchdog==6.0.0
-<<<<<<< HEAD
 pdfminer.six
-=======
 
->>>>>>> 99ab77c56aff7205621eccee59fe0b24b32496ea
