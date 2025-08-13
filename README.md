@@ -1,7 +1,9 @@
 #  Resume ATS Tracking System with Google Gemini Pro
+
 ## 🔗 LinkedIn Post
 
-[![LinkedIn Logo](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg)](https://www.linkedin.com/posts/dhirendra-singh-b5b947243_ats-resume-expert-activity-7284284721218424832-JLYo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADx5VbcBlv1MYit8UbW3ADG9Xn8tXNg832g)
+[![LinkedIn Logo](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg){:width="20"}](https://www.linkedin.com/posts/dhirendra-singh-b5b947243_ats-resume-expert-activity-7284284721218424832-JLYo?utm_source=share&)
+
 
 ## 🌐 Live Demo
 
