@@ -2,7 +2,7 @@
 
 ## 🔗 LinkedIn Post
 
-[![LinkedIn Logo](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg){:width="20"}](https://www.linkedin.com/posts/dhirendra-singh-b5b947243_ats-resume-expert-activity-7284284721218424832-JLYo?utm_source=share&)
+[![LinkedIn Logo](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg){:width="5"}](https://www.linkedin.com/posts/dhirendra-singh-b5b947243_ats-resume-expert-activity-7284284721218424832-JLYo?utm_source=share&)
 
 
 ## 🌐 Live Demo
