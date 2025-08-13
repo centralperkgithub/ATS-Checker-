@@ -1,4 +1,13 @@
 #  Resume ATS Tracking System with Google Gemini Pro
+## 🔗 LinkedIn Post
+
+[![LinkedIn Logo](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg)](https://www.linkedin.com/posts/dhirendra-singh-b5b947243_ats-resume-expert-activity-7284284721218424832-JLYo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADx5VbcBlv1MYit8UbW3ADG9Xn8tXNg832g)
+
+## 🌐 Live Demo
+
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Resume%20ATS%20Checker-green?logo=streamlit)](https://true-resume-ats-checker.streamlit.app/)
+
+
 
 A **large language model (LLM)-powered recruitment assistant** that evaluates resumes against job descriptions, identifies missing skills, and generates concise candidate summaries.  
 This project integrates **Google Gemini Pro** with a streamlined **ATS-like workflow** to improve hiring efficiency and ensure qualified candidates are not overlooked.
@@ -49,19 +58,18 @@ The result is a **data-driven, LLM-assisted resume analysis tool** that benefits
 ---
 
 ## 📊 How It Works
-** Input
 
-Paste a job description and upload or paste a candidate resume.
+**Input** — Paste a job description and upload or paste a candidate resume.
 
-** Processing
+**Processing** — The system uses Google Gemini Pro to parse and analyze the content.
 
-The system uses Google Gemini Pro to parse and analyze the content.
+**Output** —
+- Match score between job description and resume
+- List of missing keywords
+- Professional profile summary
 
-** Output
+## 🆕 Updates & Improvements
 
-Match score between job description and resume
-
-** List of missing keywords
-
-Professional profile summary
-
+- **PDF Text Extraction**  
+  - Replaced **PDF2Image** with **pdfminer.six** for extracting text from PDF resumes.  
+  - Removed dependency on **Poppler**, enabling smooth operation on any device via the provided URL without requiring local installations.
