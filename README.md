@@ -48,5 +48,20 @@ The result is a **data-driven, LLM-assisted resume analysis tool** that benefits
 
 ---
 
-## 📂 Project Structure
+## 📊 How It Works
+** Input
+
+Paste a job description and upload or paste a candidate resume.
+
+** Processing
+
+The system uses Google Gemini Pro to parse and analyze the content.
+
+** Output
+
+Match score between job description and resume
+
+** List of missing keywords
+
+Professional profile summary
 
